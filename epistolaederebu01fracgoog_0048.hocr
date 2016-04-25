@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaederebu01fracgoog_0048.png"; bbox 0 0 2670 4688; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 734 3839 1237 3919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 734 3839 1237 3919">
+     <span class='ocr_line' id='line_1_1' title="bbox 734 3839 1237 3919; baseline 0.022 -20"><span class='ocrx_word' id='word_1_1' title='bbox 734 3868 774 3897; x_wconf 66' lang='grc' dir='ltr'>ιι,</span> <span class='ocrx_word' id='word_1_2' title='bbox 812 3868 818 3879; x_wconf 63' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 851 3858 980 3907; x_wconf 58' lang='lat' dir='ltr'>wau.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1002 3860 1081 3909; x_wconf 71' lang='lat'>‘:=..··.··:</span> <span class='ocrx_word' id='word_1_5' title='bbox 1100 3839 1237 3919; x_wconf 58' lang='lat' dir='ltr'>:az-des</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 3962 1248 4055">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 3962 1248 4055">
+     <span class='ocr_line' id='line_1_2' title="bbox 648 3962 1248 4055; baseline 0.013 -34"><span class='ocrx_word' id='word_1_6' title='bbox 648 3992 654 4009; x_wconf 88' lang='lat'>·</span> <span class='ocrx_word' id='word_1_7' title='bbox 701 3996 707 4009; x_wconf 89' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 733 3984 800 4023; x_wconf 66' lang='lat' dir='ltr'>‘w</span> <span class='ocrx_word' id='word_1_9' title='bbox 815 3996 840 4025; x_wconf 69' lang='grc' dir='ltr'>ι,-</span> <span class='ocrx_word' id='word_1_10' title='bbox 884 3984 953 4027; x_wconf 63' lang='lat' dir='ltr'>mxc</span> <span class='ocrx_word' id='word_1_11' title='bbox 979 3984 1015 4029; x_wconf 67' lang='lat' dir='ltr'>a:</span> <span class='ocrx_word' id='word_1_12' title='bbox 1032 3962 1146 4055; x_wconf 67' lang='lat' dir='ltr'>prodit</span> <span class='ocrx_word' id='word_1_13' title='bbox 1162 3962 1248 4031; x_wconf 74' lang='lat' dir='ltr'>indi-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 547 4084 1247 4171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 547 4084 1247 4171">
+     <span class='ocr_line' id='line_1_3' title="bbox 547 4084 1247 4171; baseline 0.027 -36"><span class='ocrx_word' id='word_1_14' title='bbox 547 4120 552 4135; x_wconf 92' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 610 4108 738 4171; x_wconf 56' lang='lat' dir='ltr'>wrm*</span> <span class='ocrx_word' id='word_1_16' title='bbox 791 4104 908 4149; x_wconf 63' lang='lat' dir='ltr'>‘who&#39;</span> <span class='ocrx_word' id='word_1_17' title='bbox 934 4106 1002 4161; x_wconf 61' lang='lat' dir='ltr'>tyn</span> <span class='ocrx_word' id='word_1_18' title='bbox 1024 4084 1070 4155; x_wconf 69' lang='lat' dir='ltr'>dte</span> <span class='ocrx_word' id='word_1_19' title='bbox 1096 4100 1152 4151; x_wconf 72' lang='grc' dir='ltr'><strong>ΙΙΙὶΙ</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1181 4105 1247 4153; x_wconf 77' lang='lat' dir='ltr'>ussn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1340 4688">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1340 4688">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1340 4688; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 0 0 1340 4688; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
